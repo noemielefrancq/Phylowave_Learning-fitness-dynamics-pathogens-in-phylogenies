@@ -1,6 +1,6 @@
 #########################################################
 ## Download data from sra
-## i must be an accesion number
+## i must be an accession number
 #########################################################
 
 #!/bin/sh
